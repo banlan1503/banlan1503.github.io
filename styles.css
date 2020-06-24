@@ -1,0 +1,17 @@
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #DEB887;
+}
+
+article{
+	padding: 0 100px;
+}
+
+.produit1{
+	background-color: white;
+}
+
+ 
